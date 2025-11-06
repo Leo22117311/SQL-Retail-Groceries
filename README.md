@@ -18,5 +18,5 @@ The goal is to practice SQL skills by answering real business questions.
 1. Who are the top 5 customers by spending?
 2. What is the monthly revenue trend?
 3. Which employees handle the most transactions?
-4. What are the most popular product categories?
-5. What is the average age of customers by gender?
+4. What are the most popular products?
+5. What are the most popular product categories?
